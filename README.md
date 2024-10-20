@@ -11,7 +11,7 @@ A little about me:
 - 👨‍🎓 Começando os estudos no ensino médio 1/4
 - 🎓 Estudando Html e Css / React
 - 📚 Autodidata
-- ⚡  Curiosidade: Jogar Basquete e Programar são os meus hobbies.
+- ⚡ Curiosidade: Jogar Basquete e Programar são os meus hobbies.
 
 ### ⚡ Skills:
 -  ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
