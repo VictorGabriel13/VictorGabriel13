@@ -1,5 +1,8 @@
-############# Welcome to my GitHub 🚀
-Hi there 👋
+<h1 align="center"> 
+	✅ Welcome to my GitHub 🚀
+</h1>
+
+## Hi there 👋
 A little about me:
 
 - 🇨🇦  Lajes RN, **Brazil**.
@@ -7,8 +10,10 @@ A little about me:
 - 💼 Desenvolvedor front-end
 - 👨‍🎓 Começando os estudos no ensino médio 1/4
 - 🎓 Estudando Html e Css / React
+- 📚  Self-taught
+- ⚡  Fun fact: Home automation is one of my hobbies.
 
-@@ -20,7 +20,7 @@ A little about me:
+### ⚡ Skills:
 - ![Shell](https://img.shields.io/badge/-Shell-4EAA25?&logo=gnu%20bash&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
 
 ### 🛠 Tools:
