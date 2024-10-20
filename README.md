@@ -21,10 +21,10 @@ A little about me:
 - ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
 ### 📈 Stats 
-[![Mayara github stats](https://github-readme-stats.vercel.app/api?username=gabrielvictorf&theme=cobalt&show_icons=true)](https://github.com/gabrielvictorf/github-readme-stats)
+![DevGabriel github stats](https://github-readme-stats.vercel.app/api?username=VictorGabriel13&theme=cobalt&show_icons=true)](https://github.com/VictorGabriel13/github-readme-stats)
 
 ### 💡  Languages 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvictorf&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGabriel13&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 <hr>
 
