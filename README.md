@@ -1,11 +1,13 @@
-## Welcome to my GitHub 🚀
+############# Welcome to my GitHub 🚀
 Hi there 👋
 A little about me:
 
 - 🇨🇦  Lajes RN, **Brazil**.
-- 🔭  I’m currently working with **AWS** and **Kubernetes**.
-- 🌱  I’m currently learning everything related to **DevOps** and **automation**.
-- 📚  Self-taught
+- 📆 Tenho 16 anos
+- 💼 Desenvolvedor front-end
+- 👨‍🎓 Começando os estudos no ensino médio 1/4
+- 🎓 Estudando Html e Css / React
+
 @@ -20,7 +20,7 @@ A little about me:
 - ![Shell](https://img.shields.io/badge/-Shell-4EAA25?&logo=gnu%20bash&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
 
