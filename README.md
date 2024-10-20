@@ -21,7 +21,7 @@ A little about me:
 - ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
 ### 📈 Stats 
-![DevGabriel github stats](https://github-readme-stats.vercel.app/api?username=VictorGabriel13&theme=cobalt&show_icons=true)]
+![DevGabriel github stats](https://github-readme-stats.vercel.app/api?username=VictorGabriel13&theme=cobalt&show_icons=true)
 
 ### 💡  Languages 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGabriel13&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
@@ -29,4 +29,5 @@ A little about me:
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gb8may/)](https://www.linkedin.com/in/gb8may/)
- [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?&logo=telegram&logoColor=FFFFFF)](https://web.telegram.org/#/im?p=@gb8may
+ ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?&logo=telegram&logoColor=FFFFFF)
+
