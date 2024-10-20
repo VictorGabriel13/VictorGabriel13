@@ -2,8 +2,7 @@
 Hi there 👋
 A little about me:
 
-- 🇨🇦  Toronto, **Canada**.
-- 🇨🇦  Fortaleza, **Brazil**.
+- 🇨🇦  Lajes RN, **Brazil**.
 - 🔭  I’m currently working with **AWS** and **Kubernetes**.
 - 🌱  I’m currently learning everything related to **DevOps** and **automation**.
 - 📚  Self-taught
