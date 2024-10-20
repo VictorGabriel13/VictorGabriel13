@@ -10,7 +10,7 @@ A little about me:
 - 💼 Desenvolvedor front-end
 - 👨‍🎓 Começando os estudos no ensino médio 1/4
 - 🎓 Estudando Html e Css / React
-- 📚  Self-taught
+- 📚 Autodidata
 - ⚡  Fun fact: Home automation is one of my hobbies.
 
 ### ⚡ Skills:
