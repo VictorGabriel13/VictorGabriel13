@@ -3,15 +3,16 @@
 </h1>
 
 ## Hi there 👋
-A little about me:
+A little about me 🤓☝🏽:
 
 - 🌵  Lajes RN, **Brazil**.
 - 📆 Tenho 16 anos
 - 💼 Desenvolvedor front-end
 - 👨‍🎓 Começando os estudos no ensino médio 1/4
 - 🎓 Estudando Html e Css / React
+- 🙋🏽‍♂️ Um Breve Conhecenhecimento em JavaScript e em Python
 - 📚 Autodidata
-- ⚡ Curiosidade: Jogar Basquete e Programar são os meus hobbies.
+- ⚡ Curiosidade: Jogar Basquete e Programar são os meus hobbies. 
 
 ### ⚡ Skills:
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
