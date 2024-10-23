@@ -10,7 +10,7 @@ A little about me 🤓☝🏽:
 - 💼 Desenvolvedor front-end
 - 👨‍🎓 Começando os estudos no ensino médio 1/4
 - 🎓 Estudando Html e Css / React
-- 🙋🏽‍♂️ Um Breve Conhecenhecimento em JavaScript e em Python
+- 🙋🏽‍♂️ Tenho um breve Conhecenhecimento em JavaScript e em Python
 - 📚 Autodidata
 - ⚡ Curiosidade: Jogar Basquete e Programar são os meus hobbies. 
 
