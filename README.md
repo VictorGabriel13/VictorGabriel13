@@ -9,7 +9,7 @@ A little about me 🤓☝🏽:
 - 📆 Tenho 16 anos
 - 💼 Desenvolvedor front-end
 - 👨‍🎓 Começando os estudos no ensino médio 1/4
-- 🎓 Estudando Html e Css / React
+- 🎓 Estudando Html e Css / JavaScript
 - 🙋🏽‍♂️ Tenho um breve Conhecenhecimento em JavaScript e em Python
 - 📚 Autodidata
 - ⚡ Curiosidade: Jogar Basquete e Programar são os meus hobbies. 
