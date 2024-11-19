@@ -15,7 +15,7 @@ A little about me 🤓☝🏽:
 - ⚡ Curiosidade: Jogar Basquete e Programar são os meus hobbies. 
 
 ### ⚡ Skills:
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
@@ -23,7 +23,9 @@ A little about me 🤓☝🏽:
 
 
 ### 🛠 Tools:
-- ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;  ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
+  ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;  
+  ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) 
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
 
 ### 📈 Stats 
 ![DevGabriel github stats](https://github-readme-stats.vercel.app/api?username=VictorGabriel13&theme=cobalt&show_icons=true)
