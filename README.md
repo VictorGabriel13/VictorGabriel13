@@ -1,16 +1,16 @@
 <h1 align="center"> 
-	✅ Welcome to my GitHub 🚀
+	✅ Bem-vindo ao meu GitHub 🚀
 </h1>
 
-## Hi there 👋
-A little about me 🤓☝🏽:
+## Olá 👋
+Um pouco sobre mim 🤓☝🏽:
 
 - 🌵  Lajes RN, **Brazil**.
 - 📆 Tenho 16 anos
 - 💼 Desenvolvedor front-end
 - 👨‍🎓 Começando os estudos no ensino médio 1/4
 - 🎓 Estudando Html e Css / JavaScript
-- 🙋🏽‍♂️ Tenho um breve Conhecenhecimento em JavaScript e em Python
+- 🙋🏽‍♂️ Tenho um breve Conhecimento em JavaScript e em Python
 - 📚 Autodidata
 - ⚡ Curiosidade: Jogar Basquete e Programar são os meus hobbies. 
 
