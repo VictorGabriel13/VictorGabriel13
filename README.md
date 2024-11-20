@@ -33,6 +33,6 @@ A little about me 🤓☝🏽:
 
 <hr>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gb8may/)](https://www.linkedin.com/in/gb8may/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-gabriel-1a925b336)](https://www.linkedin.com/in/victor-gabriel-1a925b336)
  ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?&logo=telegram&logoColor=FFFFFF)
 
