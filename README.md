@@ -19,7 +19,7 @@ Um pouco sobre mim 🤓☝🏽:
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![☕ Java](https://img.shields.io/badge/☕_Java-orange?style=for-the-badge&logo=java&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAmklEQVRIDbXBAQEAAAABIP6PzgpVgD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7gD7)
 
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
